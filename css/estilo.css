@@ -195,7 +195,7 @@
 
     .card .perfil 
     {
-        width: 220px;
+        width: 160px;
     }
 
     .redes-sociais .whatsapp, .linkdin, .github 
@@ -229,6 +229,7 @@
     .card h1 
     {
         font-size: 20px;
+        margin-top: 10px;
     }
 
     .card h2 
@@ -238,12 +239,27 @@
 
     .card .perfil 
     {
-        width: 190px;
+        width: 130px;
     }
 
     .grupo-botao .botao 
     {
         height: 45px;
+    }
+
+    .grupo-botao 
+    {
+        margin-top: 15px;
+    }
+
+    .grupo-botao .botao 
+    {
+        margin-bottom: 10px;
+    }
+
+    .redes-sociais 
+    {
+        margin-top: 10px;
     }
 
 }
