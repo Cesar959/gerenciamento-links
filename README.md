@@ -27,7 +27,7 @@ Criação de uma página para gerenciamento de links, facilitando a localizaçã
 
 ## Autor
 
-* **Cesar dos Santos de Almeida** - *responsável pela construção e desenvolvimento do ptojeto*
+* **Cesar dos Santos de Almeida** - *responsável pela construção e desenvolvimento do projeto*
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo  [LICENSE.md](LICENSE.md) para obter detalhes
